@@ -6,7 +6,8 @@
         }        
         body {
             padding: 0px;
-            margin:0px;
+            align-items: center;
+            margin:20px 40px;
             font-size: 100%;
         }
         h1 {
