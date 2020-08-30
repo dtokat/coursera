@@ -21,7 +21,7 @@
             width: 90%;
             padding:20px;
             padding-top: 45px;
-            border: 2px solid black;
+            border: 1px solid black;
             margin-left: 20px;
             margin-right: auto;
             margin-top: 10px;
@@ -38,7 +38,7 @@
             width: 100px;
             height: auto;
             padding: 6px;
-            border: 2px solid black;
+            border: 1px solid black;
             position: absolute;
             top: -2px;
             right: -2px;
